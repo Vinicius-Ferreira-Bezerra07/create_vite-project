@@ -1,10 +1,12 @@
 import { useState } from 'react'
+import MyCard from './MyCard'
+import "./App.css"
 
 function App() {
   return (
-    <>
-      Hello World!
-    </>
+    <div className='mycard'>
+      <MyCard/>
+    </div>
   )
 }
 

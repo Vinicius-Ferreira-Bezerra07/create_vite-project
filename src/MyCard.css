@@ -1,0 +1,16 @@
+.divPrinc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.perfil{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.imgGit{
+    border-radius: 100%;
+    width: 350px;
+}
